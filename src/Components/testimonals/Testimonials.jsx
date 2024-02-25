@@ -10,13 +10,13 @@ const Testimonials = () => {
                 <div className='flex flex-wrap justify-center'>
                     <ReviewCards
                     placement={'left'}
-                    image={'../../../public/bro1.jpg'}
+                    image={'../../../bro1.jpg'}
                     name={'Kathien Smith'}
                     para={'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer fermentum justo non turpis tempus, vel scelerisque erat dapibus.'}
                     />
                     <ReviewCards
                     placement={'right'}
-                    image={'../../../public/bro1.jpg'}
+                    image={'../../../bro1.jpg'}
                     name={'John Martin'}
                     para={'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer fermentum justo non turpis tempus, vel scelerisque erat dapibus.'}
                     />

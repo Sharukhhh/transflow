@@ -14,27 +14,27 @@ const Sections = ({usage}) => {
                     {usage === 'services' ? (
                         <>
                             <MiniImageCards 
-                            image={'../../../public/lorryback.png'} 
+                            image={'../../../lorryback.png'} 
                             title={'Liquid Transportation'}
                             text={'Premium Tankers'}
                             />
                             <MiniImageCards 
-                            image={'../../../public/people.png'}
+                            image={'../../../people.png'}
                             title={'Packaging Solutions'}
                             text={'Warehouse management'}
                             />
                             <MiniImageCards 
-                            image={'../../../public/scania.png'}
+                            image={'../../../scania.png'}
                             title={'Contract Logicstics'}
                             text={'Road Transportation'}
                             />
                             <MiniImageCards 
-                            image={'../../../public/dock.png'}
+                            image={'../../../dock.png'}
                             title={'Warehouse & Distribution'}
                             text={'Large Warehouse'}
                             />
                             <MiniImageCards 
-                            image={'../../../public/yard.png'}
+                            image={'../../../yard.png'}
                             title={'Specialised Transport'}
                             text={'Ocean Transport'}
                             />
@@ -42,17 +42,17 @@ const Sections = ({usage}) => {
                     ): (
                         <>
                             <MiniImageCards 
-                            image={'../../../public/girl1.jpg'} 
+                            image={'../../../girl1.jpg'} 
                             title={'Jeseeca Arrow'}
                             text={'Designer'}
                             />
                             <MiniImageCards 
-                            image={'../../../public/bro2.png'}
+                            image={'../../../bro2.png'}
                             title={'Kathlein Smith'}
                             text={'Designer'}
                             />
                             <MiniImageCards 
-                            image={'../../../public/girl2.jpg'}
+                            image={'../../../girl2.jpg'}
                             title={'Rebecca Taylor'}
                             text={'Designer'}
                             />

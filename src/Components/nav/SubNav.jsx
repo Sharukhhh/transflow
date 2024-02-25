@@ -6,7 +6,7 @@ import { RiTwitterXFill } from "react-icons/ri";
 const SubNav = () => {
   return (
     <>
-        <nav className='absolute bg-gray-400 bg-opacity-30 left-0 right-0 z-10 bg-transparent py-3 flex flex-col md:flex-row items-center justify-between'>
+        <nav className='absolute bg-gray-400 bg-opacity-40 left-0 right-0 z-10 bg-transparent py-3 flex flex-col md:flex-row items-center justify-between'>
             <div className='flex items-center justify-center md:ml-28'>
                 <ul className='flex space-x-4 cursor-pointer text-white'>
                     <li className='hover:text-gray-300'>Home</li>
